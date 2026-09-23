@@ -1,0 +1,11 @@
+name = "spinmachoapp-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmachoapp.es"
+HMAC_KEY = "d54113764efda67d176919aec2bd4c20fddeb5608de8da61e48c4644b2bd02ca"
+COOKIE_NAME = "zfi"
+PLAY_PATH = "explore"
+BUTTON_ID = "pd4b39b1d1947c190fa944066f5932796"
+GATE_SALT = "be2605eef9bc8cea"
